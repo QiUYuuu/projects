@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/body-parser, @types/connect-mongo, @types/express, @types/express-session, @types/ws, express-DefinitelyTyped, express-route-fs-DefinitelyTyped, mysql-DefinitelyTyped, node-DefinitelyTyped, node_modules, request-DefinitelyTyped}" />
+    <includedPredefinedLibrary name="Node.js Core" />
+  </component>
+</project>
